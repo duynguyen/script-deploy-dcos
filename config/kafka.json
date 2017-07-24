@@ -1,0 +1,9 @@
+{
+  "brokers": {
+    "port": 9092
+  },
+  "kafka": {
+    "kafka_zookeeper_uri": "exhibitor-dcos.marathon.mesos:31886",
+    "default_replication_factor": 2
+  }
+}
